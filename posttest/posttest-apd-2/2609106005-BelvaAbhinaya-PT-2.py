@@ -12,7 +12,7 @@ total_bayar = total_belanjaan + pajak
 total_usd = total_bayar / 17726
 total_yen = total_bayar / 113
 rata_rata = total_bayar / len(barang)
-nim = 27
+nim = 5
 bolean = nim < rata_rata
 
 print(barang_1)
