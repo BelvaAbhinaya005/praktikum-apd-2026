@@ -1,8 +1,8 @@
 nama= input("Masukkan Nama : ")
-umur = int(input("Masukan Umur : "))
+umur = int(input("Masukan Umur : "))    
 
 if umur < 13:
-    print("Mohon maaf, anda belum cukup umur untuk menonton")
+    print("Mohon maaf, anda belum cukup umur untuk menonton")   
 else:
     jenis_tiket = input("Pilih Jenis Tiket (reguler / premium / vip): ")
     if jenis_tiket == "reguler":
