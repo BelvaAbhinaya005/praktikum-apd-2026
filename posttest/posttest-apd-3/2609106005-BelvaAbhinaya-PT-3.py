@@ -38,4 +38,3 @@ else:
             print("Status Member :",status_member)
             print("Total Bayar   : Rp.",total_bayar)
             print("Kembalian     : Rp.",kembalian)
-    
