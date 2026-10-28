@@ -282,6 +282,6 @@ def main():
 try:
     main()
 except KeyboardInterrupt:
-    print("\nProgram dihentikan paksa.")
+    print("Program dihentikan paksa.")
 finally:
     print("Program selesai.")
